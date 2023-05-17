@@ -1,0 +1,38 @@
+.body-header{
+    background-color: black;
+    width: 100%;
+    height: 15%;
+}
+
+#logo img {
+    width: 50%;
+    border-radius: 50%;
+    margin: 12px;
+}
+
+#logo-image {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 12px;
+}
+
+#logo {
+    display: flex;
+}
+
+#main-div {
+    background: linear-gradient(brown, black), url(./images/music_bg3.jpg);
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-size: cover;
+    background-position: center;
+}
+
+.section-heading {
+    padding-left: 25%;
+    margin: 12px;
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+}
